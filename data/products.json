@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1234,
+        "name" : "Product Name 01",
+        "show" : true,
+        "discount" : "15%",
+        "description" : "A description",
+        "image" : "productImage.png"
+    },
+    {
+        "id" : 4321,
+        "name" : "Product Name 02",
+        "show" : false,
+        "description" : "A description",
+        "discount" : "25%",
+        "image" : "productImage.png"
+    },
+    {
+        "id" : 3421,
+        "name" : "Product Name 03",
+        "show" : true,
+        "description" : "A description",
+        "discount" : "",
+        "image" : "productImage.png"
+    }
+]
